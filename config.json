@@ -1,0 +1,17 @@
+{
+    "token": "NDE1MzIyOTEzMzAzMTY2OTc3.De5yGw.aqq3C64qKY5-jZOxmhTczgaYTWo",
+    "transId": "PIXAYo3F1CpbSUI_ybyr",
+    "transSecret": "O8_ge9oNTf",
+    "kodicKey": "C5BEC82F2267E8CDA38BF5BA5C93F343",
+    "googleApiKey": "AIzaSyAcr_Ut9SYgh5ZowYZ9eCIEx1UJs6tBnY4",
+    "seoulMetroTimeTableApiKey" : "504b48756f736b7938365278707656",
+    "seoulMetroStationNameToCodeApiKey" : "5941617562736b7936366b7a6c6661",
+    "seoulMetroShortTimeApiKey" : "506a44547a736b793931694b676a49",
+    "seoulMetroStationRealTimeInfoApiKey" : "5672487251736b793131366549466364", 
+    "seoulUltraDustForecastApiKey" : "4167645151736b79373868686f7763",
+    "seoulDustForecastApiKey" : "766f684470736b7935315551624e58",
+    "roadNameApiKey": "U01TX0FVVEgyMDE4MDUyNDE3MzkxNDEwNzg5OTQ=",
+    "prefix": ",",
+    "passes":"3",
+    "rebootID" : "267688571635367939"
+}
